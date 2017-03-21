@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# weather
 
-You can use the [editor on GitHub](https://github.com/robertdean/nyc-metar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+| 0-48 | 48-72 | 72 |
+| ------------- | ------------- | ------------- |
+| ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=40.6708&lon=-73.9923&wfo=OKX&zcode=NYZ075&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=1111111111111&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6) 
+| ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=40.6708&lon=-73.9923&wfo=OKX&zcode=NYZ075&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=48&pcmd=1111111111111&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6)  
+| ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=40.6708&lon=-73.9923&wfo=OKX&zcode=NYZ075&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=72&pcmd=1111111111111&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6)  |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robertdean/nyc-metar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Image1]: http://sirocco.accuweather.com/nx_mosaic_640x480c/sir/inmasirva_.gif
+[Image2]: http://sirocco.accuweather.com/nx_mosaic_640x480_public/sir/inmasirmr_dca.gif
+[Image3]: [http://radblast-aws.wunderground.com/cgi-bin/radar/WUNIDS_map?station=LWX&amp;brand=wui&amp;num=6&amp;delay=15&amp;type=N0R&amp;frame=0&amp;scale=1.000&amp;noclutter=0&amp;t=1362514689&amp;lat=38.85194397&amp;lon=-77.03749847&amp;label=Ronald+Reagan+Washington+National%2C+DC&amp;showstorms=0&amp;map.x=400&amp;map.y=240&amp;centerx=400&amp;centery=240&amp;transx=0&amp;transy=0&amp;showlabels=1&amp;severe=0&amp;rainsnow=0&amp;lightning=0&amp;smooth=0]
